@@ -1,0 +1,20 @@
+package com.learning.common.enums;
+
+public enum AuditAction {
+
+    ADD_EMPLOYEE,
+    UPDATE_EMPLOYEE,
+    ADD_MANAGER,
+    UPDATE_MANAGER,
+    ADD_CSM,
+    UPDATE_CSM,
+    ADD_USER,
+    UPDATE_LEARNING,
+    UPLOAD_CERTIFICATE,
+    GRANT_TEMP_ACCESS,
+    REVOKE_TEMP_ACCESS,
+    REASSIGN_EMPLOYEE,
+    REASSIGN_MANAGER,
+    LOGIN,
+    LOGOUT
+}
